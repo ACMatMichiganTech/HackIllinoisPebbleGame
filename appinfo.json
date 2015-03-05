@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mitcheld@mtu.edu",
+    "longName": "Asteroids",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/spaceship.png",
+                "name": "SHIP_IMAGE",
+                "type": "png"
+            },
+            {
+                "file": "images/logo.png",
+                "name": "LOGO",
+                "type": "png-trans"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Asteroids",
+    "uuid": "4781cef2-81c3-40d6-90ee-07fdbede1ef1",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
